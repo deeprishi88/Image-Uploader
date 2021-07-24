@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Zen+Tokyo+Zoo&display=swap');
+
+body {
+    font-family: 'Festive',sans-serif;
+    font-weight: 500;
+    background-color: aqua;
+    font-size: 30px;
+}
+
+.font-poppins {
+    font-family: 'Zen Tokyo Zoo',sans-serif;
+}
+
+.font-size-09{
+    font-size: 25px;
+}
+
+input:focus{
+    box-shadow: none !important;
+    outline: none !important;
+
+}
